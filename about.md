@@ -2,7 +2,7 @@
 
 Hello! I am [kai].
 
-I'm really into understanding how things work, whether it's a complex system or a simple process. My biggest skill is probably my ability to break down complicated ideas into easy-to-grasp explanations, which comes in handy when I'm learning something new or trying to help others. My main goal is to keep getting better at that, constantly expanding my knowledge base and finding new ways to connect information. I guess you could say I'm always on a learning adventure..
+i like food i also have ambitions in day trading and acing your classes. This year, crushing those academic goals is definitely a big win. Thinking about day trading sounds exciting, and hopefully, it'll be a rewarding path for me.
 
 ## Navigation
 
