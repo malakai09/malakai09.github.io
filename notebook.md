@@ -1,5 +1,7 @@
 ## Table of Contents
 
+ [Vocab](#vocab)
+
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 
   - [Headings](#headings)
@@ -13,9 +15,75 @@
 
 
 
+- [Vocab](#vocab)
+- [Code Examples](#code-examples)
+  - [Print Statements](#print-statements)
+ 
+
+
+## Vocab
+<details>
+  <summary>algorithm</summary>
+    Step-by-step instructions. 
+  
+    Example: The steps to making cookies and a method we use for long math problems are both examples of algorithms.
+</details>
+
+<details>
+  <summary>sequencing</summary>
+    The order things happen in.
+
+    Example: Brushing your teeth might consist of these steps: Put toothpaste on the toothbrush. Use the toothbrush to clean your teeth.
+</details>
+
+ 
+
+## Code Examples
+ 
+  ### Print Statements
+  ```java
+  public class Hello {
+      public static void main(String[] args) {
+          System.out.println("Hello World!");
+      }
+  }
+  ```
+  **System** accesses a Java class that's built into the language
+  
+  **out** is short for "output".
+  
+  **println** is short for "print line".
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Markdown Style Guide for Coding Notebooks
+
+Follow this guide to keep your coding notebook **clear, consistent, and professional**.  
+
+This ensures your notes are easy for you (and others) to read later.
+
+---
 
 ## Headings
 
