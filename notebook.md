@@ -1,11 +1,10 @@
 ## Table of Contents
 
- [Vocab](#vocab)
-
+- [Vocab](#vocab)
+- [Code Examples](#code-examples)
+  - [Print Statements](#print-statements)
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
-
   - [Headings](#headings)
-
   - [Text Formatting](#text-formatting)
  
 
@@ -15,9 +14,6 @@
 
 
 
-- [Vocab](#vocab)
-- [Code Examples](#code-examples)
-  - [Print Statements](#print-statements)
  
 
 
@@ -37,6 +33,51 @@
 </details>
 
  
+<details>
+  <summary>Procedural Languages</summary>
+   focus on procedures (functions) that operate on data in a linear top-down sequence
+
+   
+</details>
+
+<details>
+  <summary>Object Oriented Languages</summary>
+ focus on objects organized into classe
+ 
+</details>
+
+
+</details>
+
+<details>
+  <summary>the Java Development Kit</summary>
+  is a complete set of tools for developing Java programs.
+</details>
+
+
+
+<details>
+  <summary>Java Runtime Environment</summary>
+on the other hand, is only needed to run Java programs, not to develop them.</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Code Examples
  
